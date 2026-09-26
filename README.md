@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 3785dee4f8964e16194bc3b5f7f3ab84_98235140b98c11f1b24b525400ea19b7
-    ReservedCode1: CcIHYAMckGjcQz1TqE03BmwfaZkMaMlbHpqr8+RmAGSs0RlMbdm+dcMZCp8KqCmMi6E3Tpi4RaxOh8et8qvldpCfUi+A4VBNi6q+QN0Y3pP3eKKOormnxyOuTnlDMw+SA92z+Xo0Wy6b64XZvHh/lgxRoxakDFjIW8QicQWmMFrvelJn4H0R9kjxojU=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 3785dee4f8964e16194bc3b5f7f3ab84_98235140b98c11f1b24b525400ea19b7
-    ReservedCode2: CcIHYAMckGjcQz1TqE03BmwfaZkMaMlbHpqr8+RmAGSs0RlMbdm+dcMZCp8KqCmMi6E3Tpi4RaxOh8et8qvldpCfUi+A4VBNi6q+QN0Y3pP3eKKOormnxyOuTnlDMw+SA92z+Xo0Wy6b64XZvHh/lgxRoxakDFjIW8QicQWmMFrvelJn4H0R9kjxojU=
----
-
 # 基米动力：航空学
 
 > 英文名称：`Create Aero Meow`
@@ -124,4 +113,3 @@ This project is distributed in the hope that it will be useful, but WITHOUT ANY 
 仓库中收录的第三方模组、资源包、材质、音效、美术资源和其他外部作品仍归其原作者所有，并继续遵循各自的许可证。本项目的 GPL-3.0-or-later 授权不应被视为替代或改变这些第三方作品的授权条款。
 
 本项目为非官方社区整合包，与 Mojang Studios、Microsoft、Create、Create Aeronautics、Create: Meowchanics 及其他模组的作者不存在隶属或官方合作关系。
-*（内容由AI生成，仅供参考）*
