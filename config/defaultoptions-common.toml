@@ -1,0 +1,7 @@
+#The default difficulty selected for newly created worlds.
+#Allowed Values: PEACEFUL, EASY, NORMAL, HARD
+defaultDifficulty = "NORMAL"
+#Resource pack IDs to have enabled by default on the first run.
+defaultResourcePacks = ["tacz_resources", "vanilla", "file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip", "mod_resources", "moonlight:merged_pack", "file/Better Create Glass Pipes.zip", "mod/cullleaves:resourcepacks/smartleaves", "file/SodiumTranslations.zip", "file/基米动力：航空学 汉化补全包.zip", "fabric", "continuity:default", "continuity:glass_pane_culling_fix", "file/brass age for 1.20~1.21.zip"]
+#Set to true if the difficulty for new world's should be locked to the specific default. This cannot be unlocked by players without external tools! Probably a bad idea. I don't recommend. Why am I adding this option?
+lockDifficulty = false

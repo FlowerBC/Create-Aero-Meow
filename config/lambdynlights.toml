@@ -1,0 +1,309 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+# The chunk rebuild scheduler mode (immediate, culling).
+chunk_rebuild_scheduler = "culling"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enables dynamic lighting of beacon or end gateway beams.
+	beam = true
+	# Enables dynamic lighting of firefly particles from Firefly Bushes.
+	firefly = true
+	# Enables dynamic lighting for entities that have the Glowing effect.
+	glowing_effect = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Enables dynamic lighting of the Warden's sonic boom attack particles.
+	sonic_boom = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# Enables dynamic lighting of Guardian's lasers. This also can be toggled off by disabling Guardian dynamic lighting.
+	guardian_laser = true
+
+			[light_sources.settings.entities.minecraft]
+				zombie_horse = true
+				axolotl = true
+				zoglin = true
+				egg = true
+				spawner_minecart = true
+				allay = true
+				llama = true
+				mule = true
+				bat = true
+				husk = true
+				experience_bottle = true
+				camel = true
+				rabbit = true
+				firework_rocket = true
+				silverfish = true
+				giant = true
+				drowned = true
+				item = true
+				goat = true
+				vindicator = true
+				horse = true
+				minecart = true
+				spectral_arrow = true
+				mooshroom = true
+				llama_spit = true
+				glow_item_frame = false
+				tnt = true
+				snowball = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				tadpole = true
+				ravager = true
+				evoker_fangs = true
+				tropical_fish = true
+				chest_minecart = true
+				slime = true
+				pillager = true
+				area_effect_cloud = true
+				blaze = true
+				piglin = true
+				end_crystal = true
+				endermite = true
+				zombie = true
+				ender_pearl = true
+				item_display = true
+				breeze_wind_charge = true
+				guardian = true
+				fireball = true
+				illusioner = true
+				wither_skull = true
+				eye_of_ender = true
+				wolf = true
+				tnt_minecart = true
+				zombie_villager = true
+				block_display = true
+				elder_guardian = true
+				chest_boat = true
+				small_fireball = true
+				boat = true
+				strider = true
+				cave_spider = true
+				witch = true
+				snow_golem = true
+				cod = true
+				spider = true
+				command_block_minecart = true
+				panda = true
+				bee = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				frog = true
+				hoglin = true
+				armadillo = true
+				armor_stand = true
+				experience_orb = true
+				dolphin = true
+				stray = true
+				turtle = true
+				shulker = true
+				wither_skeleton = true
+				vex = true
+				wandering_trader = true
+				salmon = true
+				piglin_brute = true
+				breeze = true
+				ocelot = true
+				furnace_minecart = true
+				item_frame = true
+				phantom = true
+				ender_dragon = true
+				leash_knot = true
+				evoker = true
+				marker = true
+				glow_squid = true
+				warden = true
+				squid = true
+				shulker_bullet = true
+				enderman = true
+				dragon_fireball = true
+				sniffer = true
+				chicken = true
+				trader_llama = true
+				donkey = true
+				bogged = true
+				fox = true
+				iron_golem = true
+				zombified_piglin = true
+				cat = true
+				wind_charge = true
+				ghast = true
+				sheep = true
+				player = true
+				pufferfish = true
+				potion = true
+				trident = true
+				villager = true
+				ominous_item_spawner = true
+				skeleton_horse = true
+				fishing_bobber = true
+				text_display = true
+				polar_bear = true
+				hopper_minecart = true
+				falling_block = true
+				painting = true
+				interaction = true
+				wither = true
+
+			[light_sources.settings.entities.create_things_and_misc]
+				blaze_ballon_fire_projectile = true
+				spout_gun_slime_projectile = true
+				spout_gun_lava_projectile = true
+				stoup_gun_water_projectile = true
+				neon_tube_projectile = true
+				spout_gun_chocolate_projectile = true
+				sprinkler_head = true
+				sprinkler_radius = true
+				spout_gun_honey_projectile = true
+				balloon_blaze = true
+
+			[light_sources.settings.entities.createbigcannons]
+				smoke_emitter = true
+				drop_mortar_shell = true
+				ap_shot = true
+				primed_propellant = true
+				smoke_shell = true
+				cannon_carriage = true
+				gas_cloud = true
+				pitch_contraption = true
+				traffic_cone = true
+				flak_autocannon = true
+				ap_shell = true
+				shot = true
+				ap_autocannon = true
+				shrapnel_burst = true
+				fluid_blob_burst = true
+				fluid_shell = true
+				flak_burst = true
+				shrapnel_shell = true
+				mortar_stone = true
+				grapeshot_burst = true
+				machine_gun_bullet = true
+				bag_of_grapeshot = true
+				he_shell = true
+
+			[light_sources.settings.entities.kaleidoscope_nether]
+				blaze_heart_projectile = true
+
+			[light_sources.settings.entities.laowu]
+				cat_ball = true
+				dynamite_projectile = true
+				logistics_support_projectile = true
+				cat_honey_patch = true
+				agent_smoke_bomb = true
+				mechanical_laser_projectile = true
+				honey_missile_projectile = true
+				cat_pancake_projectile = true
+				engineering_cogwheel_projectile = true
+				cat_flight_carrier = true
+				engineering_cannon = true
+				butter_cat = true
+				cat_diving_carrier = true
+				fishing_rod_projectile = true
+
+			[light_sources.settings.entities.sophisticatedbackpacks]
+				everlasting_backpack_item = true
+
+			[light_sources.settings.entities.creategbd]
+				turret_beam_laser_entity = true
+				beam_laser_entity = true
+
+			[light_sources.settings.entities.simulated]
+				launched_plunger = true
+				honey_glue = true
+				contraption_diagram = true
+
+			[light_sources.settings.entities.kaleidoscope_chinesefood]
+				firecracker = true
+				yellow_croaker = true
+				kongming_lantern = true
+
+			[light_sources.settings.entities.createdieselgenerators]
+				chemical_sprayer_projectile = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+				item_frame = true
+
+			[light_sources.settings.entities.aeronautics]
+				propeller_bearing_contraption = true
+				gust = true
+
+			[light_sources.settings.entities.tacz]
+				target_minecart = true
+				bullet = true
+
+			[light_sources.settings.entities.interiors]
+				big_seat = true
+
+			[light_sources.settings.entities.kaleidoscope_cookery]
+				throwable_baozi = true
+				scarecrow = true
+				sit = true
+
+			[light_sources.settings.entities.dummmmmmy]
+				target_dummy = true
+
+			[light_sources.settings.entities.create]
+				seat = true
+				carriage_contraption = true
+				stationary_contraption = true
+				package = true
+				contraption = true
+				gantry_contraption = true
+				super_glue = true
+				crafting_blueprint = true
+				potato_projectile = true
+
+			[light_sources.settings.entities.kaleidoscope_tavern]
+				thrown_molotov = true
+				sit = true
+
+			[light_sources.settings.entities.create_sa]
+				vault_module = true
+				drill_module = true
+				flamethrower_pr = true
+				lifted_block = true
+				fan_module = true
+				brass_cube_r = true
+				flamethrower_pr_2 = true
+				magnet_module = true
+				brass_drone = true
+
+			[light_sources.settings.entities.offroad]
+				borehead_contraption_entity = true
+
+			[light_sources.settings.entities.yungscavebiomes]
+				sand_snapper = true
+				icicle = true
+				ice_cube = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+[debug]
+	active_dynamic_lighting_cells = false
+	display_dynamic_lighting_chunk_rebuild = false
+	display_behavior_bounding_box = false
+
+[adaptive_ticking]
+	# Reduces how often sources behind the camera get ticked.
+	background_sleep = true
+	# How far away (in chunks) until light sources get ticked less often.
+	slow = 5
+	# How far away (in chunks) until light sources get ticked even less often.
+	slower = 8
