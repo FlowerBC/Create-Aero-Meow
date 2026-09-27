@@ -14,18 +14,18 @@
 
 ### Create 与核心附属
 
-| 内容 | 版本 | 说明 |
-|---|---:|---|
-| Create | `6.0.10` | 自动化、机械动力、物流和列车系统 |
-| Create: Meowchanics | `2.2.1` | 猫咪工业链与哈气生产系统 |
-| Create Aeronautics | `1.3.2` | 基于物理的载具、越野和飞行系统 |
-| Create: Diesel Generators | `1.3.15` | 柴油动力与相关加工设备 |
-| Create: Connected | `1.3.3` | 补充 Create 的机械与物流组件 |
-| Create: Enchantment Industry | `2.4.2` | 液态经验与附魔工业内容 |
-| Create Big Cannons | `5.11.7` | Create 风格的火炮和弹药系统 |
-| Create Ore Excavation | `1.6.8` | 矿脉勘查与自动开采系统 |
-| Create: Power Loader | `2.0.5` | 区块加载与非玩家活动控制 |
-| Create: Things and Misc | `4.1.1` | Create 风格的功能方块和物品 |
+| 内容 | 说明 |
+|---|---|
+| Create | 自动化、机械动力、物流和列车系统 |
+| Create: Meowchanics | 猫咪工业链与哈气生产系统 |
+| Create Aeronautics | 基于物理的载具、越野和飞行系统 |
+| Create: Diesel Generators | 柴油动力与相关加工设备 |
+| Create: Connected | 补充 Create 的机械与物流组件 |
+| Create: Enchantment Industry | 液态经验与附魔工业内容 |
+| Create Big Cannons | Create 风格的火炮和弹药系统 |
+| Create Ore Excavation | 矿脉勘查与自动开采系统 |
+| Create: Power Loader | 区块加载与非玩家活动控制 |
+| Create: Things and Misc | Create 风格的功能方块和物品 |
 
 ### 工业与物流扩展
 
